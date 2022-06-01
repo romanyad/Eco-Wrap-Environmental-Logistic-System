@@ -6,8 +6,6 @@ Eco Wrap Environmental Logistic System
 
 
 ![Splash Screen](https://i.ibb.co/6JkcfdS/i-Phone-X-XS-11-Pro-45-2x.png)
-![Landing Page](https://i.ibb.co/311frHt/i-Phone-X-6.png)
-
 
 ![Splash Screen](https://i.ibb.co/yBwRCyw/proto.jpg)
 
